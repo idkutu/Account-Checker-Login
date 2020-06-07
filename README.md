@@ -4,6 +4,9 @@ This code only to help you for check account from some site in internet
 - Luminati
 - Smartproxy
 
+Combolist
+EMAIL:PASSWORD
+
 Used :
 
 root$ php check.php
