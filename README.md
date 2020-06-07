@@ -15,12 +15,10 @@ root$ php check.php
     |      Author: Toolsb0x (https://toolsb0x.com/)         |
     |_______________________________________________________|
                 
-
-
- Enter list: list.txt
- Save to dir (default: valid): (somefoldername)
- Request email per second (*max 10) ? 5
- Delete list per check? (y/n): n/y
+                Enter list: list.txt
+                Save to dir (default: valid): (somefoldername)
+                Request email per second (*max 10) ? 5
+                Delete list per check? (y/n): n/y
  
  
 
